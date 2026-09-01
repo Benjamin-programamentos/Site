@@ -1,0 +1,49 @@
+/* comentário em CSS */
+/* elemento */
+/* classe */
+/* pseudoclasse */
+/* id */
+body{
+    background-color: rgb(163, 93, 67);
+}
+p{  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px; /* tamanho da fonte */
+    line-height: 20px; /* espaçamento entre linhas */
+    text-align: justify; /* alinhamento do texto */
+}
+
+.noticias{
+    margin: 15px;
+    background-color: bisque;
+    padding: 20px;
+}
+.contato{
+    margin: 15px;
+    background-color: bisque;
+    padding: 20px;
+}
+
+#esportes{
+    background-color: #f4c58d;
+    color: rgb(84, 82, 82);
+    padding: 15px;
+}
+
+h1{
+    margin: 15px;
+    text-align: center;
+    padding: 20px;
+}
+
+a{
+    color: brown;
+    margin-right: 20px;
+    line-height: 30px;
+}
+
+a:hover{
+    background-color: brown;
+    color: azure;
+    padding: 10px;
+}
